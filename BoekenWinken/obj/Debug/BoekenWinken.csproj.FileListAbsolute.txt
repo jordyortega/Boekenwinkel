@@ -1,0 +1,7 @@
+C:\Users\dy0n\Desktop\semester4\pgm\BoekenWinken\BoekenWinken\bin\Debug\BoekenWinken.exe.config
+C:\Users\dy0n\Desktop\semester4\pgm\BoekenWinken\BoekenWinken\bin\Debug\BoekenWinken.exe
+C:\Users\dy0n\Desktop\semester4\pgm\BoekenWinken\BoekenWinken\bin\Debug\BoekenWinken.pdb
+C:\Users\dy0n\Desktop\semester4\pgm\BoekenWinken\BoekenWinken\obj\Debug\BoekenWinken.csprojResolveAssemblyReference.cache
+C:\Users\dy0n\Desktop\semester4\pgm\BoekenWinken\BoekenWinken\obj\Debug\BoekenWinken.csproj.CoreCompileInputs.cache
+C:\Users\dy0n\Desktop\semester4\pgm\BoekenWinken\BoekenWinken\obj\Debug\BoekenWinken.exe
+C:\Users\dy0n\Desktop\semester4\pgm\BoekenWinken\BoekenWinken\obj\Debug\BoekenWinken.pdb
